@@ -32,7 +32,7 @@ path = "../../examples/advanced.rs"
 
 [[example]]
 name = "simple"
-path = "../../examples/simple.rs"
+path = "../../examples/simple_ver4.rs"
 
 [[example]]
 name = "testnet"
